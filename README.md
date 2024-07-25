@@ -1,11 +1,11 @@
 ## Hi there 👋
 _____________________________________________________________________________________________________________________________________________________________________
-I am a postdoctoral researcher at CNRS with a PhD in Physics. My journey in the world of science has fueled my fascination for Data Science and AI. Here, you'll find my projects and contributions that blend the rigor of physics with the innovative power of data science and artificial intelligence.
+**I am a postdoctoral researcher at CNRS with a PhD in Physics. My journey in the world of science has fueled my fascination for Data Science and AI. Here, you'll find my projects and contributions that blend the rigor of physics with the innovative power of data science and artificial intelligence.
 
 Feel free to explore my repositories, open issues, and contribute to discussions. I'm always open to collaboration and learning from the vibrant GitHub community.
 
 Let's connect and create something amazing together!
-
+**
 ___________________________________________________________________________________________________________________________________________________________________
 
 
