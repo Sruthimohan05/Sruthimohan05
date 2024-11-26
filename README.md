@@ -1,19 +1,7 @@
 ## Hi there 👋
 _____________________________________________________________________________________________________________________________________________________________________
-I am a postdoctoral researcher at CNRS. My journey in the world of science has fueled my fascination for Data Science and AI. Here, you'll find my projects and contributions.
-
-Feel free to explore my repositories, open issues, and contribute to discussions. I'm always open to collaboration and learning from the vibrant GitHub community.
-
-Let's connect and create something amazing together!
 
 ___________________________________________________________________________________________________________________________________________________________________
-
-
-
-- 🔭 I’m currently working on Recommender Systems using supervised and unsupervised learning
-- 🌱 I’m currently learning NLP
-- 💬 Ask me about Analysis of high resolution electron microscopy images
-- 😄 Pronouns: She/Her
 
 <!--
 **Sruthimohan05/Sruthimohan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
